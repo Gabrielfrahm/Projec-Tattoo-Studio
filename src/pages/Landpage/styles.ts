@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { shade } from 'polished';
 
 import imag from '../../assets/landpage.jpg';
-import imgWork from '../../assets/landpage1.jpg';
+// import imgWork from '../../assets/landpage1.jpg';
 
 export const Container = styled.div`
   justify-content: center;
